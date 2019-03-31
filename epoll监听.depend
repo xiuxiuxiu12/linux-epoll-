@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1550994329 source:/home/xiuxiu/code/c++学习/epoll/epoll监听/wrap.c
+	"wrap.h"
+
+1553994111 /home/xiuxiu/code/c++学习/epoll/epoll监听/wrap.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<arpa/inet.h>
+
+1553994098 source:/home/xiuxiu/code/c++学习/epoll/epoll监听/server.cpp
+	<iostream>
+	<poll.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<string.h>
+	"wrap.h"
+
